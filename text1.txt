@@ -1,3 +1,6 @@
 first file created...
+<<<<<<< HEAD
 
 second line add..
+=======
+>>>>>>> af4326e00f62da847f21e386724b2cc4747ef467
